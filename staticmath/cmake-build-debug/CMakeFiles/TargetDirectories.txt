@@ -1,0 +1,3 @@
+/Users/chaoyu/Downloads/stm32testpart/staticmath/cmake-build-debug/CMakeFiles/staticmath.dir
+/Users/chaoyu/Downloads/stm32testpart/staticmath/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chaoyu/Downloads/stm32testpart/staticmath/cmake-build-debug/CMakeFiles/rebuild_cache.dir
